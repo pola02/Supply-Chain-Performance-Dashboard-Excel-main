@@ -148,21 +148,7 @@ Supply-Chain-Performance-Dashboard-Excel
 
 # 📁 Project Files
 
-## 📊 Dashboard File
 
-**Supply Chain Dashboard.xlsx**
-
-https://github.com/Muhammad-Jan/Supply-Chain-Performance-Dashboard-Excel/blob/main/Dashboard%20File/Supply%20Chain%20Dashboard.xlsx
-
----
-
-## 📄 Dataset
-
-**dirty_supply_chain_dataset.csv.xlsx**
-
-https://github.com/Muhammad-Jan/Supply-Chain-Performance-Dashboard-Excel/blob/main/Dataset/dirty_supply_chain_dataset.csv.xlsx
-
----
 
 # 📌 Dashboard Features
 
@@ -209,17 +195,6 @@ This dashboard enables businesses to:
 
 ---
 
-# 👨‍💻 Author
-
-## Muhammad Jan
-
-**Data Analyst | Business Intelligence Enthusiast | Data Science & AI Learner**
-
-📧 **Email:**  
-[muhammad.tech.09@gmail.com](mailto:muhammad.tech.09@gmail.com)
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/muhammad-jan-a98134341/
 
 🐙 **GitHub:**  
 https://github.com/Muhammad-Jan
