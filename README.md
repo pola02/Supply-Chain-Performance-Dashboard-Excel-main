@@ -196,9 +196,5 @@ This dashboard enables businesses to:
 ---
 
 
-🐙 **GitHub:**  
-https://github.com/Muhammad-Jan
-
----
 
 # ⭐ If you found this project helpful, consider giving it a Star!
